@@ -50,21 +50,21 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Nima Afraz"
+  role = "PhD Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Trinity College Dublin", url = "https://tcd.ie" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "nafraz@tcd.ie"
+  address = "34 Westland Row, Dublin 2, Ireland"
+  office_hours = "Monday-Fiday 8:00 to 20:00 or email for appointment"
+  phone = "+353 87 0951736"
+  skype = "nimaafraz"
+  telegram = "@nimaafraz"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
