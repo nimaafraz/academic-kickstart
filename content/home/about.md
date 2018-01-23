@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Trinity College Dublin"
-  year = 2016-Present
+  year = 2016
 
 [[education.courses]]
   course = "MEng in Computer Systems Arcithecture"
