@@ -59,9 +59,9 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/arta.gif"
+image = "static/img/headers/arta.gif"
 caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+<!-- More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code. -->
