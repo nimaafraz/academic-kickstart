@@ -59,7 +59,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "arta.gif"
+image = "arta.jpeg"
 caption = "My caption :smile:"
 
 +++
