@@ -24,7 +24,7 @@ publication_short = "In *IranianCEE.2015*"
 abstract = "Despite the fact that delay based congestion control algorithms like TCP-Vegas can achieve a higher performance compared to loss based algorithms, some issues including fairness have been identified with the algorithm. These issues are preventing delay based congestion control algorithms to be widely implemented on the internet. This paper will tackle the fairness problem of TCP-Vegas with the modification of its congestion avoidance mechanism. The strength of our Modified version of TCP-Vegas, named TCP-ArtaVegas, is that the modification needs to be implemented only in the end hosts. Simulation results shows that TCP-ArtaVegas significantly improved the fairness of bandwidth allocation in heterogeneous network topologies."
 abstract_short = "This paper will tackle the fairness problem of TCP-Vegas with the modification of its congestion avoidance mechanism. The strength of our Modified version of TCP-Vegas, named TCP-ArtaVegas, is that the modification needs to be implemented only in the end hosts. Simulation results shows that TCP-ArtaVegas significantly improved the fairness of bandwidth allocation in heterogeneous network topologies."
 
-# Featured image thumbnail (optional)
+# Featured image thumbnail (optional)nima
 image_preview = ""
 
 # Is this a selected publication? (true/false)
