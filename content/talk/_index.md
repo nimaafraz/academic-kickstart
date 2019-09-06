@@ -1,6 +1,6 @@
 +++
-title = "Recent & Upcoming Talks"
-date = "2017-01-01T00:00:00Z"
+title = "Blockchain Technology and Smart Contracts in 5G and Beyond Networks [Tutorial Talk]"
+date = "2019-07-01T00:00:00Z"
 math = false
 highlight = false
 
@@ -11,6 +11,7 @@ list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+image = "EUCNC.png"
+caption = "H Ahmadi, I Macaluso, M Ruffini, N Afraz
+https://www.eucnc.eu/tutorials/tutorial-1/"
 +++
