@@ -10,16 +10,16 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Network Economics",
+    "Blockchain for Telecom",
+    "Network Virtualization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Trinity College Dublin"
-  year = 2016
+  year = 2016-Present
 
 [[education.courses]]
   course = "MEng in Computer Systems Arcithecture"
